@@ -28,6 +28,7 @@
     "web": {
       "favicon": "./src/assets/favicon.png"
     },
-    "description": ""
+    "description": "Aplikacja o storytellingu i dzieleniu się doświadczeniami z innymi kobietami i sobą. Naucz się, jak być bohaterką swojej własnej historii!",
+    "githubUrl": "https://github.com/limawka/HerStories"
   }
 }

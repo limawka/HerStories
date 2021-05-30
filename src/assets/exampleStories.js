@@ -23,36 +23,34 @@ export default [
   },
   {
     id: 2,
-    title: "Wiara",
-    description: "Jak uwierzyć w siebie?",
-    characterName: "Jola z Łabędziego Jeziora",
+    title: "Kariera",
+    description: "O rozpoczęciu kariery w IT",
+    characterName: "Niezdecydowana Marta",
     content: {
-      challenge:
-        "Po miesiącach treningów miała możliwość wzięcia udziału w konkursie tanecznym",
-      emotions:
-        "Pojawiła się jednak niepewność: przecież tam będą dziewczyny tańczące dużo dłużej niż ona - czy nie wypadnie tragicznie na ich tle?",
-      solution:
-        "Spytała się o radę znajomych z kursu tanecznego. Wszyscy jej powiedzieli, by spróbowała - Jola tańczy świetnie jak na początkującą!",
+      challenge: "Chciała wejść do świata IT.",
+      emotions: "Czuła ekscytację i strach, bo nie wiedziała jak zacząć.",
+      solution: "Popytała więc swoich znajomych i dostała mnóstwo wsparcia.",
       result:
-        "Jola uwierzyła w siebie i wzięła udział w konkursie. Mimo że nie wygrała, wcale nie wypadła tragicznie tak jak myślała - jednak wyniosła dużo cennych doświadczeń i wiedzy na przyszłość.",
+        "Poczuła się wzmocniona, bo zrozumiała, że jej przyjaciele są jej cennym zasobem.",
     },
-    primaryColor: colors.lightBlue,
-    secondaryColor: colors.white,
-    illustration: illustrations.girl3,
+    primaryColor: colors.peach,
+    secondaryColor: colors.secondPurple,
+    illustration: illustrations.girl2,
   },
   {
     id: 3,
     title: "Kariera",
-    description: "O rozpoczęciu kariery w IT",
-    characterName: "Nieśmiała Zuzia",
+    description: "O pierwszej pracy",
+    characterName: "Cicha Nina",
     content: {
-      challenge: "Miała wielkie marzenie: zostać programistką!",
+      challenge:
+        "Chciała zostać prawdziwą programistką - dostać się na pierwszy staż programistyczny",
       emotions:
-        "Bała się, że bliscy ją wyśmieją oraz że okaże się, że się nie nadaje",
+        "Była niepewna swoich umiejętności, bała się bycia negatywnie ocenioną przez bardziej doświadczonych ludzi.",
       solution:
-        "Zapisała się na darmowy kurs dla kobiet chcących rozpocząć karierę w IT",
+        "Powiedziała sobie, że nie ma nic do stracenia - nawet jeśli wypadnie okropnie to nikt o tym nie będzie pamiętał, a firm szukających stażystów jest mnóstwo!",
       result:
-        "Dowiedziała się jak wygląda świat IT oraz poznała wiele kobiet z podobnymi marzeniami, z którymi teraz może się nawzajem wspierać i uczyć od siebie!",
+        "Przejście przez ten proces dało jej dużo cennych lekcji i doświadczenia. Dzięki temu wie, czego oczekiwać na rozmowach i w pracy oraz podbudowała pewność siebie.",
     },
     primaryColor: colors.peach,
     secondaryColor: colors.secondPurple,

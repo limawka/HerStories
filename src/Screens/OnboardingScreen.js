@@ -45,7 +45,7 @@ const Done = ({ isLight, ...props }) => (
   <TouchableWithoutFeedback title="Done" {...props}>
     <View
       style={{
-        marginRight: 100,
+        marginRight: 20,
         backgroundColor: colors.lightBlue,
         borderRadius: 8,
         width: 200,
@@ -103,7 +103,7 @@ function OnboardingScreen({ navigation }) {
         },
         {
           backgroundColor: colors.background,
-          title: "Why cannot\nwe be our own \nlisteners?",
+          title: "Why cannot we be \nour own listeners?",
           subtitle: "What is your story then?",
           image: (
             <Image
@@ -131,11 +131,11 @@ const styles = StyleSheet.create({
     fontFamily: "Nunito",
 
     textAlign: "left",
-    width: 200,
+    width: 250,
   },
   subTitle: {
     fontFamily: "Nunito",
-    width: 200,
+    width: 250,
     textAlign: "left",
     marginBottom: 25,
   },
